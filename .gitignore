@@ -2,3 +2,6 @@
 
 # img files
 *.svg
+
+# ipynb checkpoints
+.ipynb_checkpoints/
