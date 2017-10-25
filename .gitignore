@@ -1,1 +1,4 @@
 # place files and folders that will not be committed to the repo below.
+
+# img files
+*.svg
